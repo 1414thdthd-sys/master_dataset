@@ -41,3 +41,7 @@ Missing values indicate that data were not available or not recorded for specifi
 6. Usage
 
 The dataset supports reproduction of all analyses presented in the thesis, including task-level, platform-level, and sector-level evaluation.
+
+7. Data Dictionary
+
+A detailed data dictionary describing all variables, definitions, and units is provided in this repository.
